@@ -2,7 +2,7 @@
   {
     "title": "Azteca Uno",
     "m3u8": "http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL113/canal113.m3u8",
-    "sort": 0,
+    "sort": 1,
     "id": 1
   },
   {
@@ -10,5 +10,17 @@
     "m3u8": "http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL102/canal102.m3u8",
     "sort": 2,
     "id": 2
+  },
+  {
+    "title": "Azteca 7",
+    "m3u8": "http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL107/canal107.m3u8",
+    "sort": 3,
+    "id": 3
+  },
+  {
+    "title": "Canal 5",
+    "m3u8": "http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL105/canal105.m3u8",
+    "sort": 4,
+    "id": 4
   }
 ]
